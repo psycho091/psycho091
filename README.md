@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @psycho091
-- 👀 I’m interested in Java and Web development 
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on Java
-- 📫 How to reach me twitter ms457
+- 👀 I’m interested in Java and IOS Development
+- 🌱 I’m currently learning IOS Development
+- 💞️ I’m looking to collaborate on IOS Development
+
 
 <!---
 psycho091/psycho091 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
